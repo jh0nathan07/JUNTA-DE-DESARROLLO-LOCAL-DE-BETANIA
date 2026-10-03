@@ -88,4 +88,13 @@ Al iniciar el programa aparecerá el menú principal:
 =============================================
 Seleccione una opción:
 
-El usuario puede seleccionar la opción correspondiente y seguir las instrucciones mostradas por el programa.
+El usuario puede seleccionar la opción correspondiente y seguir las instrucciones del programa.
+
+
+Prueba del programa en archivo word con capturas:
+https://docs.google.com/document/d/1gWmGQrXUt12K3zj1QYYpqTAHDbcadscx/edit?usp=sharing&ouid=114494351297794651171&rtpof=true&sd=true
+
+
+
+
+
