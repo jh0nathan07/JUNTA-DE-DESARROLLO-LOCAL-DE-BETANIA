@@ -1,7 +1,7 @@
 # =====================================================
 # SISTEMA DE GESTIÓN DE PROYECTOS
 # JUNTA DE DESARROLLO LOCAL DE BETANIA
-# Proyecto Semestral - Escenario 5 - Jhonathan Rodriguez 
+#Escenario 5 - Jhonathan Rodriguez 
 # =====================================================
 
 class Usuario:
